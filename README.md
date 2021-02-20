@@ -1,1 +1,1 @@
-# fue.github.io
+# fue-edu.github.io
